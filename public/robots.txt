@@ -1,0 +1,13 @@
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Disallow admin/private paths (if any in future)
+Disallow: /admin/
+Disallow: /*.json$
+
+# Sitemap location
+Sitemap: https://portfolio-marion-saru-maghangas-projects.vercel.app/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1

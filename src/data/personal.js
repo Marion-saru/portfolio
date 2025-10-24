@@ -3,10 +3,10 @@ import aiCertificate from "../assets/images/ai-certificate.png";
 export const personalInfo = {
   name: "Marion Saru Maghanga",
   title: "Backend Developer & AI and ML enthusiast",
-  bio: "I’m an ambitious Software Engineering student and Backend Developer passionate about AI and Machine Learning. I specialize in Flask and have hands-on experience with Python, SQL, RESTful APIs, and ML tools like NumPy, Pandas, and scikit-learn.I love building efficient, data-driven systems and creating intelligent solutions that enhance user experience. Driven by curiosity and clean code, I thrive in collaborative, fast-paced environments where innovation meets impact.",
+  bio: "I'm an ambitious Software Engineering student at United States International University Africa pursuing a BSc in Software Engineering and a Backend Developer passionate about AI and Machine Learning. I specialize in Flask and have hands-on experience with Python, SQL, RESTful APIs, and ML tools like NumPy, Pandas, and scikit-learn. Additionally, I have some experience with Natural Language Processing using NLTK and continue to learn. I love building efficient, data-driven systems and creating intelligent solutions that enhance user experience. Driven by curiosity and clean code, I thrive in collaborative, fast-paced environments where innovation meets impact.",
   location: "Nairobi, KE",
   email: "maghangasaru@gmail.com",
-  resumeUrl: "/resume.pdf"
+  resumeUrl: "/CV.pdf"
 };
 
 export const achievements = [

@@ -200,7 +200,7 @@ const Hero = () => {
             whileTap={{ scale: 0.95 }}
           >
             <Download className="w-5 h-5" />
-            Download Resume
+            Download CV
           </motion.a>
         </motion.div>
 
